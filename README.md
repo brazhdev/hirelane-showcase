@@ -2,7 +2,7 @@
 
 **People first.** A recruiting workspace that keeps jobs, candidate context and the next interview connected.
 
-[![Demo](https://img.shields.io/badge/Demo-Open-319ab8?style=flat-square)](#demo) [![Watch video](https://img.shields.io/badge/Video-Watch-334155?style=flat-square)](artifacts/portfolio/demo.mp4)
+[![Demo](https://img.shields.io/badge/Demo-Open-319ab8?style=flat-square)](https://hirelane-demo-brazhdev.pages.dev/) [![Watch video](https://img.shields.io/badge/Video-Watch-334155?style=flat-square)](artifacts/portfolio/demo.mp4)
 
 ![Hiring overview](artifacts/portfolio/desktop/01-overview.png)
 
@@ -52,4 +52,4 @@ Nuxt 4, Vue 3, TypeScript, shadcn-vue, Tailwind CSS, Phosphor and SortableJS. Th
 
 ## Demo
 
-Interactive demo coming soon.
+[Open the interactive demo](https://hirelane-demo-brazhdev.pages.dev/). Choose a demo account on the sign-in screen.
